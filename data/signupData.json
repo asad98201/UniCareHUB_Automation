@@ -1,0 +1,9 @@
+{
+    "name": "AsadTester01",
+    "email": "asad123@gmail.com",
+    "phNumber": "+61432231567",
+    "password": "Tester@123",
+    "confirmPassword": "Tester@123",
+    "expectedMsg": "Welcome Back!"
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "unicarehub_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1",
+    "allure-playwright": "^3.9.0"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.42.0",
+    "ig": "^0.0.5"
+  }
+}
